@@ -6,7 +6,7 @@
 
 :raising_hand: I am currently pursuing my Masters in Information Systems (Data Science Majors) from Northeastern University, Boston <br/>
 :space_invader: Aspiring Applied Scientist/ Machine Learning Engineer <br/>
-🔭 I’m currently working on various topics in Deep Learning and implementing the projects, the latest one was :brain: Classification of IntraCranial Hamerroage <br/>
+🔭 I’m currently working on various topics in Deep Learning and implementing the projects, the latest one was :brain: Classification of IntraCranial Haemorrhage <br/>
 ⚡ Fun fact: I love mathematics and analyzing data, Also, I am great Arsenal FC fan forever :heartbeat: <br/>
 📫 How to reach me: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_right: [LinkedIn](https://www.linkedin.com/feed/) <br/>
