@@ -9,8 +9,8 @@
 🔭 I’m currently working on various topics in Deep Learning, GenAI projects <br/>
 ⚡ Fun fact: I love mathematics and analyzing data, Also, I am great Arsenal FC fan forever :heartbeat: <br/>
 📫 How to reach me: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_right: [LinkedIn](https://www.linkedin.com/feed/) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:point_right:  bhardwaj.di@northeastern.edu <br/> <br/>
+👉🏼 [LinkedIn](https://www.linkedin.com/feed/) <br/>
+👉🏼  bhardwaj.di@northeastern.edu <br/> <br/>
 
 ## Skill Set
 These are some of the major technologies that I use or have worked on in the past:<br/>
